@@ -4,4 +4,4 @@ slug: first-blog
 tags:
   - projects
 ---
-Hi this is my first blog. This project will make it easier to publish a blog with obsidian. I like the language of go. I like the backend developer. I couldn't add anything to this project today due to school.
+Hi this is my first blog. This project will make it easier to publish a blog with obsidian. I like the language of go. I like the backend developer. I couldn't add anything to this project today due to school. I couldn't do anything today either. Did I mention that I feel bad on days when I can’t code? :D
