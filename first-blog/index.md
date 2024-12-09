@@ -25,3 +25,6 @@ Yes I added something new. I also fixed my blog a little bit. I am creating the 
 
 ### 8 December 2024
 Yesterday I understood how the site works. Today, I am making changes accordingly. Fonts are still not loading, I haven't investigated why. Settings file added. Some more development.
+
+### 9 December 2024
+Yes, now your visitors can view which song you are listening to on Spotify. But the token you gave is not fully secure at the moment. Don't worry, I will find a way to keep it safe :D
